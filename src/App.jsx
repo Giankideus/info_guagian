@@ -369,6 +369,9 @@ export default function App() {
           Algunos modelos amplían la tríada con autenticidad y no repudio, pero CIA sigue
           siendo el punto de partida.
         </p>
+        <p className="firma">
+          Hecho por <a href="https://github.com/Giankideus">Giankideus</a>
+        </p>
         <p>
           Infografía educativa hecha con React y Vite ·{' '}
           <a href="https://info-guagian.vercel.app">info-guagian.vercel.app</a>
